@@ -5,20 +5,15 @@
 .nav {
     background-color: #800080;
 }
-
 .container{
     display: flex;
     flex-direction: row;
 }
 .main {
-
-    float: left;
     background-color: #ffd700;
-    left: 0%;
 }
 
 .aside {
-    float: right;
     background-color: #808080;
 }
 .footer {
